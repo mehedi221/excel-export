@@ -1,0 +1,121 @@
+
+@media only screen and (min-width:0px) and (max-width:767px) {
+    body {
+        overflow-x: hidden;
+        min-width: auto;
+    }
+    #codeigniter_profiler{
+        display: none;
+    }
+    .top_bar{
+        height: 46px;
+        width: 100%;
+        min-width: 100%;
+    }
+    .quicklinks{
+        display: inline-block;
+        vertical-align: top;
+    }
+    .adminmenumain_hide{
+        display: none;
+    }
+    .adminmenumain_hide.adminmenumain_show{
+        display: block;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+    .container_wrapper {
+        margin-left: 0px;
+        height: 100%;
+        padding-left: 0px;
+    }
+    .m_menu_show_hide {
+        display: inline-block;
+        height: 46px;
+        width: 52px;
+        font-size: 40px;
+        color: #00b9eb;
+        text-align: center;
+        margin: 4px 0 0 0;
+    }
+    .page_title {
+        margin: 14px 0px;
+    }
+    .body_main_container {
+        margin: 40px 0 0 0;
+        padding-bottom: 65px;
+        float: left;
+        width: 100%;
+        position: relative;
+        left: 0;
+    }
+    .float-left.ab-top-menu{
+        display: none
+    }
+    .float-right.user_option .menupop .user_name span{
+        display: none;
+    }
+    .search-box {
+        width: 100%;
+        text-align: right;
+    }
+    .search_field {
+        width: 68%;
+    }
+
+
+}
+
+@media only screen and (min-width:320px) and (max-width:1024px) {
+
+
+
+}
+
+@media only screen and (min-width:0px) and (max-width:767px) {
+
+}
+
+@media only screen and (min-width:0px) and (max-width:756px) {
+
+}
+
+@media only screen and (min-width:768px) and (max-width:1900px) {
+
+}
+/** office samsung tab **/
+@media only screen and (min-width:768px) and (max-width:1024px) {
+
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1280px) {
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1440px) {
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+    
+}
+/** this css for ipad office **/
+
+
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1280px) 
+and (-webkit-min-device-pixel-ratio: 1)
+and (orientation: portrait){
+   
+}
+
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1024px) 
+and (-webkit-min-device-pixel-ratio: 1) 
+and (orientation: landscape){
+
+}
+/** //EnD this css for ipad office **/
